@@ -1,2 +1,2 @@
 # basic-portfolio
-This is a repository for project portfolio using html, css, js
+Look at my portfolio: https://anju1626.github.io/basic-portfolio/
